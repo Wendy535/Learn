@@ -55,7 +55,7 @@ public class Task2 {
                 item = words[index];
                 veggyFruityQuiz();
             default:
-                System.out.println("Хотите сыграть еще? 1 - да/0 - нет");
+                System.out.println("Хотите сыграть еще? yes/no");
         }
 
     }
